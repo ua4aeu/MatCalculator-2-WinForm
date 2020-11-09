@@ -1,0 +1,120 @@
+C:\Users\Илья\source\repos\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\Илья\source\repos\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\Илья\source\repos\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+C:\Users\Илья\source\repos\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Илья\source\repos\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\Илья\source\repos\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Илья\source\repos\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Илья\source\repos\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Илья\source\repos\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Илья\source\repos\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\Илья\source\repos\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form3.resources
+C:\Users\Илья\source\repos\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form4.resources
+C:\Users\Илья\source\repos\Программа на форме\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Илья\source\repos\Программа на форме\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Илья\source\repos\Программа на форме\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Илья\source\repos\Программа на форме\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\Илья\source\repos\Программа на форме\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\Илья\source\repos\Программа на форме\obj\Debug\WindowsFormsApp2.Form2.resources
+C:\Users\Илья\source\repos\Программа на форме\obj\Debug\WindowsFormsApp2.Form3.resources
+C:\Users\Илья\source\repos\Программа на форме\obj\Debug\WindowsFormsApp2.Form4.resources
+C:\Users\Илья\source\repos\Программа на форме\obj\Debug\WindowsFormsApp2.Form5.resources
+C:\Users\Илья\source\repos\Программа на форме\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Илья\source\repos\Программа на форме\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\Илья\source\repos\Программа на форме\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Илья\source\repos\Программа на форме\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\Илья\source\repos\Программа на форме\obj\Debug\WindowsFormsApp2.Form6.resources
+D:\C#\Программа на форме\bin\Debug\WindowsFormsApp2.exe.config
+D:\C#\Программа на форме\bin\Debug\WindowsFormsApp2.exe
+D:\C#\Программа на форме\bin\Debug\WindowsFormsApp2.pdb
+D:\C#\Программа на форме\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+D:\C#\Программа на форме\obj\Debug\WindowsFormsApp2.Form1.resources
+D:\C#\Программа на форме\obj\Debug\WindowsFormsApp2.Form2.resources
+D:\C#\Программа на форме\obj\Debug\WindowsFormsApp2.Form3.resources
+D:\C#\Программа на форме\obj\Debug\WindowsFormsApp2.Form4.resources
+D:\C#\Программа на форме\obj\Debug\WindowsFormsApp2.Form5.resources
+D:\C#\Программа на форме\obj\Debug\WindowsFormsApp2.Form6.resources
+D:\C#\Программа на форме\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+D:\C#\Программа на форме\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+D:\C#\Программа на форме\obj\Debug\WindowsFormsApp2.exe
+D:\C#\Программа на форме\obj\Debug\WindowsFormsApp2.pdb
+H:\C#\Программа на форме\bin\Debug\WindowsFormsApp2.exe.config
+H:\C#\Программа на форме\bin\Debug\WindowsFormsApp2.exe
+H:\C#\Программа на форме\bin\Debug\WindowsFormsApp2.pdb
+H:\C#\Программа на форме\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+H:\C#\Программа на форме\obj\Debug\WindowsFormsApp2.Form1.resources
+H:\C#\Программа на форме\obj\Debug\WindowsFormsApp2.Form2.resources
+H:\C#\Программа на форме\obj\Debug\WindowsFormsApp2.Form3.resources
+H:\C#\Программа на форме\obj\Debug\WindowsFormsApp2.Form4.resources
+H:\C#\Программа на форме\obj\Debug\WindowsFormsApp2.Form5.resources
+H:\C#\Программа на форме\obj\Debug\WindowsFormsApp2.Form6.resources
+H:\C#\Программа на форме\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+H:\C#\Программа на форме\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+H:\C#\Программа на форме\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+H:\C#\Программа на форме\obj\Debug\WindowsFormsApp2.exe
+H:\C#\Программа на форме\obj\Debug\WindowsFormsApp2.pdb
+H:\C#\Программа на форме\obj\Debug\WindowsFormsApp2.Form7.resources
+C:\Users\ua4aeu\Desktop\Программа на форме\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\ua4aeu\Desktop\Программа на форме\bin\Debug\WindowsFormsApp2.exe
+C:\Users\ua4aeu\Desktop\Программа на форме\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\ua4aeu\Desktop\Программа на форме\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\ua4aeu\Desktop\Программа на форме\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\ua4aeu\Desktop\Программа на форме\obj\Debug\WindowsFormsApp2.Form2.resources
+C:\Users\ua4aeu\Desktop\Программа на форме\obj\Debug\WindowsFormsApp2.Form3.resources
+C:\Users\ua4aeu\Desktop\Программа на форме\obj\Debug\WindowsFormsApp2.Form4.resources
+C:\Users\ua4aeu\Desktop\Программа на форме\obj\Debug\WindowsFormsApp2.Form5.resources
+C:\Users\ua4aeu\Desktop\Программа на форме\obj\Debug\WindowsFormsApp2.Form6.resources
+C:\Users\ua4aeu\Desktop\Программа на форме\obj\Debug\WindowsFormsApp2.Form7.resources
+C:\Users\ua4aeu\Desktop\Программа на форме\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\ua4aeu\Desktop\Программа на форме\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\ua4aeu\Desktop\Программа на форме\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\ua4aeu\Desktop\Программа на форме\obj\Debug\WindowsFormsApp2.exe
+C:\Users\ua4aeu\Desktop\Программа на форме\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\ua4aeu\Desktop\МатКалькулятор мой\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\ua4aeu\Desktop\МатКалькулятор мой\bin\Debug\WindowsFormsApp2.exe
+C:\Users\ua4aeu\Desktop\МатКалькулятор мой\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\ua4aeu\Desktop\МатКалькулятор мой\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\ua4aeu\Desktop\МатКалькулятор мой\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\ua4aeu\Desktop\МатКалькулятор мой\obj\Debug\WindowsFormsApp2.Form2.resources
+C:\Users\ua4aeu\Desktop\МатКалькулятор мой\obj\Debug\WindowsFormsApp2.Form3.resources
+C:\Users\ua4aeu\Desktop\МатКалькулятор мой\obj\Debug\WindowsFormsApp2.Form4.resources
+C:\Users\ua4aeu\Desktop\МатКалькулятор мой\obj\Debug\WindowsFormsApp2.Form5.resources
+C:\Users\ua4aeu\Desktop\МатКалькулятор мой\obj\Debug\WindowsFormsApp2.Form6.resources
+C:\Users\ua4aeu\Desktop\МатКалькулятор мой\obj\Debug\WindowsFormsApp2.Form7.resources
+C:\Users\ua4aeu\Desktop\МатКалькулятор мой\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\ua4aeu\Desktop\МатКалькулятор мой\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\ua4aeu\Desktop\МатКалькулятор мой\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\ua4aeu\Desktop\МатКалькулятор мой\obj\Debug\WindowsFormsApp2.exe
+C:\Users\ua4aeu\Desktop\МатКалькулятор мой\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\ua4aeu\Desktop\MathCalculator UA4AEU\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\ua4aeu\Desktop\MathCalculator UA4AEU\bin\Debug\WindowsFormsApp2.exe
+C:\Users\ua4aeu\Desktop\MathCalculator UA4AEU\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\ua4aeu\Desktop\MathCalculator UA4AEU\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\ua4aeu\Desktop\MathCalculator UA4AEU\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\ua4aeu\Desktop\MathCalculator UA4AEU\obj\Debug\WindowsFormsApp2.Form2.resources
+C:\Users\ua4aeu\Desktop\MathCalculator UA4AEU\obj\Debug\WindowsFormsApp2.Form3.resources
+C:\Users\ua4aeu\Desktop\MathCalculator UA4AEU\obj\Debug\WindowsFormsApp2.Form4.resources
+C:\Users\ua4aeu\Desktop\MathCalculator UA4AEU\obj\Debug\WindowsFormsApp2.Form5.resources
+C:\Users\ua4aeu\Desktop\MathCalculator UA4AEU\obj\Debug\WindowsFormsApp2.Form6.resources
+C:\Users\ua4aeu\Desktop\MathCalculator UA4AEU\obj\Debug\WindowsFormsApp2.Form7.resources
+C:\Users\ua4aeu\Desktop\MathCalculator UA4AEU\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\ua4aeu\Desktop\MathCalculator UA4AEU\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\ua4aeu\Desktop\MathCalculator UA4AEU\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\ua4aeu\Desktop\MathCalculator UA4AEU\obj\Debug\WindowsFormsApp2.exe
+C:\Users\ua4aeu\Desktop\MathCalculator UA4AEU\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\ua4aeu\Desktop\MathCalculator-main\MathCalculator UA4AEU\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\ua4aeu\Desktop\MathCalculator-main\MathCalculator UA4AEU\bin\Debug\WindowsFormsApp2.exe
+C:\Users\ua4aeu\Desktop\MathCalculator-main\MathCalculator UA4AEU\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\ua4aeu\Desktop\MathCalculator-main\MathCalculator UA4AEU\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\ua4aeu\Desktop\MathCalculator-main\MathCalculator UA4AEU\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\ua4aeu\Desktop\MathCalculator-main\MathCalculator UA4AEU\obj\Debug\WindowsFormsApp2.Form2.resources
+C:\Users\ua4aeu\Desktop\MathCalculator-main\MathCalculator UA4AEU\obj\Debug\WindowsFormsApp2.Form3.resources
+C:\Users\ua4aeu\Desktop\MathCalculator-main\MathCalculator UA4AEU\obj\Debug\WindowsFormsApp2.Form4.resources
+C:\Users\ua4aeu\Desktop\MathCalculator-main\MathCalculator UA4AEU\obj\Debug\WindowsFormsApp2.Form5.resources
+C:\Users\ua4aeu\Desktop\MathCalculator-main\MathCalculator UA4AEU\obj\Debug\WindowsFormsApp2.Form6.resources
+C:\Users\ua4aeu\Desktop\MathCalculator-main\MathCalculator UA4AEU\obj\Debug\WindowsFormsApp2.Form7.resources
+C:\Users\ua4aeu\Desktop\MathCalculator-main\MathCalculator UA4AEU\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\ua4aeu\Desktop\MathCalculator-main\MathCalculator UA4AEU\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\ua4aeu\Desktop\MathCalculator-main\MathCalculator UA4AEU\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\ua4aeu\Desktop\MathCalculator-main\MathCalculator UA4AEU\obj\Debug\WindowsFormsApp2.exe
+C:\Users\ua4aeu\Desktop\MathCalculator-main\MathCalculator UA4AEU\obj\Debug\WindowsFormsApp2.pdb
